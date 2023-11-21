@@ -1,0 +1,9 @@
+La categoría LiRADS 3 (LR-3) se refiere a lesiones hepáticas que tienen características intermedias y por lo tanto un riesgo intermedio de ser carcinoma hepatocelular (CHC). Las lesiones LR-3 no muestran características definitivas de benignidad ni de malignidad.
+
+1. Nódulo menor de 20mm con realce homogéneo de contraste en fase arterial, que no presenta ninguno de los criterios principales de sospecha: ni lavado, ni pseudocápsula ni crecimiento superior al umbral.
+
+2. Nódulo menor de 20mm, iso- o hipo-captante en fase arterial, con no más de un criterio principal: o lavado, o pseudocápsula o crecimiento superior al umbral.
+
+3. Nódulo igual o superior a 20mm, iso- o hipo-captante en fase arterial, que no presenta ninguno de los criterios principales: ni lavado, ni pseudocápsula ni crecimiento superior al umbral.
+
+Es importante señalar que LR-3 es en esencia una categoría "intermedia" o "indeterminada". Las lesiones que se clasifican como LR-3 no tienen características suficientes para ser clasificadas en una categoría más alta o más baja en el sistema LiRADS. La interpretación y manejo de estas lesiones a menudo depende del contexto clínico del paciente, la calidad de las imágenes y otros factores.

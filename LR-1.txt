@@ -1,0 +1,37 @@
+LiRADS 1 (LR-1) se refiere a lesiones que son definitivamente benignas. Estas lesiones no muestran ninguna característica sugestiva de carcinoma hepatocelular (CHC) y pueden ser claramente caracterizadas como benignas basadas en la imagen.
+
+1. Quistes:
+a. Lesiones con señal de líquido en todas las secuencias de RM o atenuación de agua en TC.
+b. Sin realce interno después de la administración del medio de contraste.
+
+2. Hemangiomas:
+a. Lesiones hiperintensas en secuencias T2 de RM.
+b. Realce nodular periférico en la fase arterial con llenado centripeto en fases posteriores.
+
+3. Focos grasos:
+a. Áreas con baja señal en las secuencias out-of-phase en comparación con las secuencias in-phase en RM.
+b. No presentan realce de contraste.
+
+4. Cambios post-tratamiento benignos:
+a. Por ejemplo, cicatrices después de tratamientos como la ablación.
+
+5. Venas colaterales o shunts arteriovenosos:
+a. Pueden identificarse por su patrón de realce y su continuidad con los vasos normales.
+b. Focos milimétricos de distribución predominantemente subcapsular y morfología fusiforme, que sólo se identifican en fase arterial, sin traducción en el resto de secuencias ni fases del estudio dinámico.
+
+6. Hepatoadenomas:
+a. Pueden ser difíciles de distinguir de otros tumores, pero en el contexto de LR-1, se consideran cuando tienen características típicamente benignas en la imagen y en la historia clínica del paciente.
+
+7. Áreas de congestión o trombosis:
+a. Estas pueden identificarse por su patrón de realce y su relación con los vasos normales.
+
+8. Hamartomas.
+
+9. Fibrosis hepática confluente
+
+10. Granulomas
+
+Estas son algunas de las características y lesiones más comunes que se clasifican típicamente como LR-1. Es importante entender que la interpretación de las imágenes debe realizarse en el contexto clínico del paciente y en conjunto con otros hallazgos clínicos y de laboratorio. La técnica de imagen y el equipo utilizado también pueden influir en la apariencia de las lesiones.
+
+
+

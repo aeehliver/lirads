@@ -1,0 +1,30 @@
+LiRADS 2 (LR-2) se refiere a lesiones que son probablemente benignas. Aunque estas lesiones tienen una baja probabilidad de ser carcinomas hepatocelulares (CHC), no pueden ser definitivamente caracterizadas como benignas basadas únicamente en la imagen.
+
+1. Nódulos de regeneración
+a. Típicamente menores de 2 cm.
+b. Homogéneos.
+c. Isointensos respecto al parénquima hepático en todas las fases del estudio dinámico.
+d. Pueden ser isointensos o hiperintensos en secuencias T1, e isointensos o hipointensos en secuencias T2 de RM.
+
+2. Hemangiomas atípicos:
+a. Hemangiomas que no muestran el patrón típico de llenado centrípeto en imágenes post-contraste.
+
+3. Quistes complicados:
+a. Quistes con septaciones o calcificaciones.
+b. Quistes con ligeras irregularidades en sus paredes.
+
+4. Granulomas atípicos:
+
+5. Cambios post-tratamiento atípicos:
+a. Cambios que no se correlacionan claramente con el tratamiento previo o que muestran características atípicas.
+
+6. Hepatoadenomas atípicos:
+a. Lesiones que no muestran las características típicas de hepatoadenomas en imágenes.
+
+7. Hamartomas atípicos.
+
+8. Venas colaterales o shunts arteriovenosos atípicos.
+
+9. Áreas de congestión o trombosis atípicas.
+
+Estas son algunas de las características y lesiones más comunes que se clasifican típicamente como LR-2. Es importante recordar que la interpretación de las imágenes debe realizarse en el contexto clínico del paciente y en conjunto con otros hallazgos clínicos y de laboratorio. La técnica de imagen y el equipo utilizado también pueden influir en la apariencia de las lesiones.

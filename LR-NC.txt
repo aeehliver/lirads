@@ -1,0 +1,38 @@
+La categoría LiRADS NC (LR-NC) se refiere a lesiones hepáticas o áreas de tejido hepático que son "No Categorizables". Las observaciones clasificadas como LR-NC son aquellas que no pueden ser adecuadamente categorizadas en una de las otras categorías de LiRADS debido a limitaciones en la visualización o interpretación.
+
+1. Imagen subóptima:
+a. Movimiento del paciente que produce artefactos.
+b. Artefactos relacionados con el equipo o la técnica de imagen.
+c. Artefactos de pulsación o respiración.
+
+2. Lesión parcialmente visualizada:
+a. Una lesión que se encuentra en el borde de la imagen y no puede ser completamente evaluada.
+
+3. Lesión observada en un solo plano de imagen:
+a. Sin imágenes multiplanares para una evaluación adecuada.
+
+4. Lesión observada en una sola fase de contraste:
+a. Falta de imágenes en varias fases de contraste que impide la caracterización adecuada.
+
+5. Limitación debido al medio de contraste:
+a. Falta de opacificación adecuada.
+b. Reacción alérgica al contraste que impide la administración completa.
+c. Fallo en la administración del contraste.
+
+6. Lesiones en pacientes con complicaciones post-procedimiento:
+a. Por ejemplo, después de una intervención quirúrgica o de una biopsia, donde los cambios post-procedimiento pueden hacer que la interpretación sea difícil.
+
+7. Lesiones en áreas de hígado alteradas por tratamientos previos:
+a. Por ejemplo, en áreas de radiación o ablación previas.
+
+8. Lesiones detectadas en estudios sin contraste:
+a. Donde la administración de medio de contraste podría haber permitido una mejor caracterización.
+
+9. Lesiones en un hígado con cambios morfológicos severos:
+a. Como en cirrosis avanzada, donde la anatomía alterada dificulta la interpretación.
+
+10. Limitaciones relacionadas con el paciente:
+a. Por ejemplo, incapacidad para retener la respiración durante la adquisición de imágenes.
+
+11. Situaciones en las que las imágenes están incompletas o faltan:
+a. Por ejemplo, pérdida de datos o fallos técnicos.

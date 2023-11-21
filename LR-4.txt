@@ -1,0 +1,22 @@
+La categoría LiRADS 4 (LR-4) se refiere a lesiones hepáticas que tienen características que sugieren un alto riesgo de ser carcinoma hepatocelular (CHC), pero no son definitivas. Estas lesiones muestran ciertas características de malignidad, pero no todas las características requeridas para ser clasificadas como LR-5.
+
+1. Nódulo menor de 20 mm, sin realce en fase arterial, y con dos o más de las siguientes características:
+a. Lavado en fase venosa o de equilibrio.
+b. Pseudo-cápsula.
+c. Crecimiento por encima del umbral.
+
+2. Nódulo igual o mayor de 20 mm, sin realce en fase arterial, y con una o más de las siguientes características:
+a. Lavado en fase venosa o de equilibrio.
+b. Pseudo-cápsula.
+c. Crecimiento por encima del umbral.
+
+3. Nódulo menor de 10 mm, con realce homogéneo en fase arterial, y con una o más de las siguientes características:
+a. Lavado en fase venosa o de equilibrio.
+b. Pseudo-cápsula.
+c. Crecimiento por encima del umbral.
+
+4. Nódulo de entre 10-19 mm, con realce homogéneo en fase arterial, con pseudo-cápsula, pero sin ninguno de los otros criterios mayores: ni lavado ni crecimiento por encima del umbral.
+
+5. Nódulo igual o mayor de 20 mm, con realce homogéneo en fase arterial, sin criterios mayores de sospecha: ni lavado, ni pseudo-cápsula ni crecimiento por encima del umbral.
+
+Es importante tener en cuenta que la categoría LR-4 es un término medio entre las lesiones probablemente benignas (LR-3) y las lesiones con alta probabilidad de CHC (LR-5). La interpretación y el manejo de estas lesiones a menudo dependen del contexto clínico del paciente, la calidad de las imágenes, y otros factores. Las lesiones clasificadas como LR-4 a menudo requieren seguimiento cercano y, en algunos casos, biopsia o intervención.
